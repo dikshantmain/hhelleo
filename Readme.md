@@ -2,3 +2,5 @@
 kamkmdkaml
 # naeme
 jkgjhjkanjklckLCMALK
+Git .. 
+get status
